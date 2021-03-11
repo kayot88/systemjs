@@ -20,7 +20,7 @@
     "bluebird": "^3.5.1",
     "esm": "^3.0.77",
     "mocha": "^5.2.0",
-    "rollup": "^0.64.1",
+    "rollup": "^2.41.1",
     "rollup-plugin-replace": "^2.0.0",
     "terser": "^3.8.1",
     "whatwg-fetch": "^2.0.4"
